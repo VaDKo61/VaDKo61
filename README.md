@@ -10,7 +10,7 @@
 - 👯 Eager to collaborate on projects utilizing my engineering background and knowledge of backend development.
 - 🤝 Seeking help to delve deeper into backend development especially with Python, Django, FastAPI and more.
 - 👨‍💻 All my projects are available at [my repositories](https://github.com/VaDKo61?tab=repositories).
-- 💬 Feel free to ask about my transition from main constructor to software development.
+- 💬 Feel free to ask about my transition from Chief Design Engineer to software development.
 - ⚡ Fun fact: I love airsoft!
 
 <h3 align="left">Connect with me:</h3>
